@@ -60,8 +60,8 @@
       <file leaf-file-name="db_pool.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db_pool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+            <state relative-caret-position="523">
+              <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
             </state>
           </provider>
         </entry>
@@ -232,15 +232,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053304" side_tool="true" weight="0.20801733" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49946696" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49946696" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" weight="0.5492958" />
       <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.20693512" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" visible="true" weight="0.20693512" />
       <window_info anchor="right" id="Remote Host" order="0" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18656716" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -309,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db_pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="134" column="13" lean-forward="true" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
+        <state relative-caret-position="523">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
